@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
+-Primeiro Nome:Francine Dipaula
+-Profissão: adm
+-Cidade:Serra
 -O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Feedback sobre o curso Qualidade de Software: Estiu gostando
+-Feedback sobre a plataforma de estudo da EBAC:Agora que estou empenhada, estou com mais facilidade, porem falta um pouco de clareza nos exercicios.
 
 Obrigado!!!
 
